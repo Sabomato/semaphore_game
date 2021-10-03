@@ -16,17 +16,7 @@ typedef enum State{
 } State;
 
 
-
-// enum Plays{
-//     LEAVE,PLAY_PIECE,INC_BOARD
-// };
-
-// typedef enum Plays, Plays;
-
 typedef struct GameController GameController;
-
-
-
 
 
 

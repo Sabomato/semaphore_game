@@ -4,7 +4,6 @@
 #define SNAPSHOT
 
 #include "utils.h"
-//#include "GameController.h"
 #include "Player.h"
 #include "Board.h"
 #define MAX_SNAPSHOT_CHARS (MAX_BOARD_CHARS + MAX_PLAYER_CHARS + 28)
