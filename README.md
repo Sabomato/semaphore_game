@@ -9,15 +9,16 @@ Can be played "player vs player" or "player vs computer", but the algoritm is pr
 
 
 
+## Implementation
 
 The implementation is divided in interface, which is text-based, and controller, the wrapping structure for all the logic.
 
-## Implementation
+These letters represent the respective colors/objects in the board:
 
 - **R** - Red
 - **G** - Green
 - **Y** - Yellow
-- **O** - Rock
+- **O** - Rock  
 ## Usage
 I provide two ways of testing the game:
 
